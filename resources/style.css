@@ -63,3 +63,16 @@ footer{
 .heart{
     color: red;
 }
+
+ /* media-query */
+
+ @media only screen and (max-width: 600px) {
+    #profilePic {
+        height: 150px;
+        width: 150px;
+    }
+    #projectPic {
+        height: 250px;
+        width: 250px;
+    }
+ }

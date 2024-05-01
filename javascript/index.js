@@ -13,3 +13,9 @@ const renderTimer = () => {
 // so that the resulting string reaches the given length.
 // The padding is applied from the start (left) of the current string.
 
+const button = document.getElementById("submitBtn");
+// const textArea = document.getElementById("feedback");
+
+button.onclick = function(){
+    window.alert("Thanks a lot!")
+}

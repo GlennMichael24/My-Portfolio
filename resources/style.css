@@ -41,4 +41,11 @@ a {
 #projectPic{
     height: 500px;
     width: 500px;
+    padding: 10px;
+}
+details{
+    cursor: pointer;
+}
+details h3{
+    display: inline;
 }

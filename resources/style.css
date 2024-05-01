@@ -49,3 +49,17 @@ details{
 details h3{
     display: inline;
 }
+.skills-bar{
+    display: inline-block;
+    font-size: 2em;
+    padding: 10px;
+
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    margin-top: auto;
+}
+.heart{
+    color: red;
+}
